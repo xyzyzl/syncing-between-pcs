@@ -1,0 +1,8 @@
+how does one do electric fence
+
+find equations of all the lines
+- y=0
+- y=(m/n)x
+- y=(n-p)(x-n)/m+m
+
+remember to set everything as a double
