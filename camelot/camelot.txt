@@ -1,0 +1,8 @@
+how does one do camelot lol
+
+- find the distance from each point
+- find the distance from the king (do this in a separate method)
+- from this, we can find best distance from knight (saved knight points) to each other point.
+	- dist from knight to junction point + dist from junction point to point + dist from king to junction point = total distance to calculate
+	- find the minimum of these over all junction points.
+	- naively, this is O(RC)^3, which might time out
