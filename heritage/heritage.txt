@@ -1,0 +1,6 @@
+how does one do heritage lol
+
+find the root of current tree/subtree
+print the left subtree (just don't consider the current root)
+print the right subtree (after the root in the inorder)
+print the current char (because that's what to do)
