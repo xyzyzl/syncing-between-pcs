@@ -1,0 +1,6 @@
+how to make a "raucous rockers" lmao
+
+since N is 20, you could brute force each combination
+check if it is going to overflow a disk
+
+overall algorithm is O(N*2^N)
