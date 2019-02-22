@@ -1,0 +1,7 @@
+how does one do this question lol
+
+this is DP
+- dp[a][i][j] = the number of solutions if "i" is the number of hands like (a-1, a, a+1) and "j" is the number of hands like (a, a+1, a+2)
+	- originally, dp[0][0][0] = 0
+	- Transition: dp[a][j][k] = dp[a-1][i][j] + k + (cnt[a]-i-j-k)/3
+- At the end, find the maximum
