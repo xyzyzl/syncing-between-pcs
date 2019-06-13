@@ -1,0 +1,7 @@
+﻿  D.cpp
+c:\users\alber\source\repos\minecraft\syncing-between-pcs\codeforces\1132\d\d.cpp(53): warning C4244: '+=': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  D.vcxproj -> C:\Users\alber\source\repos\minecraft\syncing-between-pcs\codeforces\1132\D\Debug\D.exe
